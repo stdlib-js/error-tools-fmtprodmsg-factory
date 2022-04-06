@@ -48,7 +48,7 @@ Alternatively,
 var fmtprodmsgFactory = require( '@stdlib/error-tools-fmtprodmsg-factory' );
 ```
 
-#### fmtprodmsgFactory( options )
+#### fmtprodmsgFactory( \[options] )
 
 Returns a `function` which formats an error message for production.
 
@@ -101,8 +101,6 @@ var msg = fcn( '27', 'foo', 'bar' );
 <section class="examples">
 
 ## Examples
-
-<!-- TODO: better examples -->
 
 <!-- eslint no-undef: "error" -->
 
