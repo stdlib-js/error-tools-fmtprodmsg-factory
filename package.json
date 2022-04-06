@@ -1,0 +1,37 @@
+{
+  "name": "@stdlib/error-tools-fmtprodmsg-factory",
+  "version": "0.0.0",
+  "description": "Return a function which formats an error message for production.",
+  "license": "Apache-2.0",
+  "main": "./bundle.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/error-tools-fmtprodmsg-factory.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdutils",
+    "stdutil",
+    "utils",
+    "util",
+    "utilities",
+    "utility",
+    "error",
+    "err",
+    "message",
+    "msg",
+    "format",
+    "fmt",
+    "minify",
+    "minification",
+    "factory"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
