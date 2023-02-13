@@ -38,12 +38,12 @@ C -->|bundle| D[esm];
 C -->|bundle| E[deno];
 C -->|bundle| F[umd];
 
-click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/error/tools/fmtprodmsg-factory"
-click B href "https://github.com/stdlib-js/error-tools-fmtprodmsg-factory/tree/main"
-click C href "https://github.com/stdlib-js/error-tools-fmtprodmsg-factory/tree/production"
-click D href "https://github.com/stdlib-js/error-tools-fmtprodmsg-factory/tree/esm"
-click E href "https://github.com/stdlib-js/error-tools-fmtprodmsg-factory/tree/deno"
-click F href "https://github.com/stdlib-js/error-tools-fmtprodmsg-factory/tree/umd"
+%% click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/error/tools/fmtprodmsg-factory"
+%% click B href "https://github.com/stdlib-js/error-tools-fmtprodmsg-factory/tree/main"
+%% click C href "https://github.com/stdlib-js/error-tools-fmtprodmsg-factory/tree/production"
+%% click D href "https://github.com/stdlib-js/error-tools-fmtprodmsg-factory/tree/esm"
+%% click E href "https://github.com/stdlib-js/error-tools-fmtprodmsg-factory/tree/deno"
+%% click F href "https://github.com/stdlib-js/error-tools-fmtprodmsg-factory/tree/umd"
 ```
 
 [stdlib-url]: https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/error/tools/fmtprodmsg-factory
