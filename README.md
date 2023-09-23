@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import fmtprodmsgFactory from 'https://cdn.jsdelivr.net/gh/stdlib-js/error-tools-fmtprodmsg-factory@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/error-tools-fmtprodmsg-factory/tags). For example,
+
+```javascript
 import fmtprodmsgFactory from 'https://cdn.jsdelivr.net/gh/stdlib-js/error-tools-fmtprodmsg-factory@v0.1.0-esm/index.mjs';
 ```
 
@@ -107,7 +112,7 @@ var msg = fcn( '27', 'foo', 'bar' );
 <body>
 <script type="module">
 
-import fmtprodmsgFactory from 'https://cdn.jsdelivr.net/gh/stdlib-js/error-tools-fmtprodmsg-factory@v0.1.0-esm/index.mjs';
+import fmtprodmsgFactory from 'https://cdn.jsdelivr.net/gh/stdlib-js/error-tools-fmtprodmsg-factory@esm/index.mjs';
 
 var formatProdErrorMessage = fmtprodmsgFactory();
 var msg = formatProdErrorMessage( '3', 'foo' );
