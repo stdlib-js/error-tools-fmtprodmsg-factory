@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import fmtprodmsgFactory from 'https://cdn.jsdelivr.net/gh/stdlib-js/error-tools-fmtprodmsg-factory@deno/mod.js';
+import fmtprodmsgFactory from 'https://cdn.jsdelivr.net/gh/stdlib-js/error-tools-fmtprodmsg-factory@v0.2.1-deno/mod.js';
 ```
 
 #### fmtprodmsgFactory( \[options] )
@@ -102,7 +102,7 @@ var msg = fcn( '27', 'foo', 'bar' );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import fmtprodmsgFactory from 'https://cdn.jsdelivr.net/gh/stdlib-js/error-tools-fmtprodmsg-factory@deno/mod.js';
+import fmtprodmsgFactory from 'https://cdn.jsdelivr.net/gh/stdlib-js/error-tools-fmtprodmsg-factory@v0.2.1-deno/mod.js';
 
 var formatProdErrorMessage = fmtprodmsgFactory();
 var msg = formatProdErrorMessage( '3', 'foo' );
