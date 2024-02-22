@@ -44,7 +44,7 @@ limitations under the License.
 To use in Observable,
 
 ```javascript
-fmtprodmsgFactory = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/error-tools-fmtprodmsg-factory@umd/browser.js' )
+fmtprodmsgFactory = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/error-tools-fmtprodmsg-factory@v0.2.1-umd/browser.js' )
 ```
 
 To vendor stdlib functionality and avoid installing dependency trees for Node.js, you can use the UMD server build:
@@ -56,7 +56,7 @@ var fmtprodmsgFactory = require( 'path/to/vendor/umd/error-tools-fmtprodmsg-fact
 To include the bundle in a webpage,
 
 ```html
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/error-tools-fmtprodmsg-factory@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/error-tools-fmtprodmsg-factory@v0.2.1-umd/browser.js"></script>
 ```
 
 If no recognized module system is present, access bundle contents via the global scope:
@@ -129,7 +129,7 @@ var msg = fcn( '27', 'foo', 'bar' );
 <!DOCTYPE html>
 <html lang="en">
 <body>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/error-tools-fmtprodmsg-factory@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/error-tools-fmtprodmsg-factory@v0.2.1-umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
 
