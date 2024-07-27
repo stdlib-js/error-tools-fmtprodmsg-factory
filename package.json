@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/error-tools-fmtprodmsg-factory",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Return a function which formats an error message for production.",
   "license": "Apache-2.0",
   "author": {
@@ -35,13 +35,13 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/assert-has-own-property": "^0.2.1",
-    "@stdlib/assert-is-plain-object": "^0.2.1",
-    "@stdlib/assert-is-string": "^0.2.1",
-    "@stdlib/string-format": "^0.2.1",
-    "@stdlib/string-replace": "^0.2.1",
+    "@stdlib/assert-has-own-property": "^0.2.2",
+    "@stdlib/assert-is-plain-object": "^0.2.2",
+    "@stdlib/assert-is-string": "^0.2.2",
+    "@stdlib/string-format": "^0.2.2",
+    "@stdlib/string-replace": "^0.2.2",
     "@stdlib/types": "^0.3.2",
-    "@stdlib/error-tools-fmtprodmsg": "^0.2.1"
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
   "devDependencies": {
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
