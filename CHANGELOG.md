@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-09-26)
+## Unreleased (2024-09-28)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`abf0407`](https://github.com/stdlib-js/stdlib/commit/abf040787f6598438b0100a729a8331b7f80f62f) - **chore:** resolve lint errors in TS files _(by Philipp Burckhardt)_
 -   [`7b02c16`](https://github.com/stdlib-js/stdlib/commit/7b02c160d8c9ecf6742ea0178c733f938e0c94c4) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 
 </details>
